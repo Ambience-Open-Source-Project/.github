@@ -54,7 +54,7 @@ Upon successful compilation, the synthesized bootloader images and the root file
 ### ⚖️ Legal Disclaimer & Licensing
 **Ambience Open Source Project** is a composite project consisting of various independent components. 
 * **Licensing**: Each repository within this organization is governed by its own respective license (e.g., GPL, LGPL, MIT). Users must refer to the `LICENSE` or `COPYING` file within each individual repository for specific terms.
-* **Nomenclature**: The naming convention of certain repositories (e.g., prefixing with `platform-`) is inspired by the **Android Open Source Project (AOSP)** structure. This is a purely architectural choice intended to provide a familiar and organized hierarchy for developers accustomed to complex build environments; this project is **not** a fork of AOSP nor is it affiliated with Google LLC.
+* **Nomenclature**: The naming convention of certain repositories (e.g., prefixing with "platform-") is inspired by the **Android Open Source Project (AOSP)** structure. This is a purely architectural choice intended to provide a familiar and organized hierarchy for developers accustomed to complex build environments; this project is **not** a fork of AOSP nor is it affiliated with Google LLC.
 * **Warranty**: This software is provided "as is," without warranty of any kind, express or implied.
 
 ---
