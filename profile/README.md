@@ -48,6 +48,7 @@ Upon successful compilation, the synthesized bootloader images and the root file
 | **`platform-glibc`** | The core C library providing the foundational API for the system. |
 | **`platform-gcc`** | Optimized GNU Compiler Collection for RISC-V cross-compilation. |
 | **`platform-limine`** | Advanced, multiprotocol bootloader for modern RISC-V deployments. |
+| **`platform-application`** | A collection of user-space software and standalone functional applications. |
 
 ---
 
